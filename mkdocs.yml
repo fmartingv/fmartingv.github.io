@@ -1,3 +1,9 @@
 site_name: My Docs
+site_url: https://github.com/fmartingv/fmartingv.github.io
+
+theme:
+  name: readthedocs
+  nav_style: dark
+
 nav:
-  - Home: index.md
+  - Inicio: 'index.md'
