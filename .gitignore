@@ -37,7 +37,7 @@
 *.hex
 
 # Entorno virtual
-entorno/
+/entorno/
 
 # Debug files
 *.dSYM/
